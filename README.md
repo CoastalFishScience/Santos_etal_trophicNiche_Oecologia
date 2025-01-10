@@ -1,4 +1,5 @@
 # Data and code for Santos et al. 2025
+[![DOI](https://zenodo.org/badge/915013638.svg)](https://doi.org/10.5281/zenodo.14630178)
 Title: Trophic niche dynamics of two fish mesoconsumers in adjacent coastal habitats with varying nutrient regimes 
 
 Authors: Rolando O. Santos, W. Ryan James, Jennifer S. Rehage, Cody W. Eggenberger, Justin S. Lesser, Christopher J. Madden
